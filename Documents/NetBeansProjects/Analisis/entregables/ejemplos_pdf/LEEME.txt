@@ -1,0 +1,3 @@
+Estos dos informes son ejemplos generados con datos ficticios para mostrar que el PDF cambia según el deportista seleccionado.
+
+La aplicación mantiene los datos solo mientras está abierta. Para entregar informes con datos propios, registra dos deportistas, sus entrenamientos y sus pruebas; genera y guarda cada PDF antes de cerrar la aplicación.
